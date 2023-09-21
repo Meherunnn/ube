@@ -1,0 +1,247 @@
+.name-color{
+    color:rgb(255, 145, 11);
+    
+}
+.hire{
+    height: 40px;
+    width: 100px;
+    background-color:rgb(255, 145, 11);
+    border-radius: 10px;
+    color: white;
+    border-color: rgb(255, 145, 11) ;
+}
+/* h1{ */
+    /* font-size: 70px; */
+/* } */
+h2{
+    font-size: 40px;
+}
+/* h3{ */
+    /* font-size: 55px; */
+/* } */
+li{
+    /* display:inline; */
+    list-style: none;
+    margin-left: 200px;
+    
+
+
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    margin: 40px 200px;
+}
+ul{
+    display: flex;
+    align-items: center;
+}
+.banner{
+    margin: 0px 200px;
+    display: flex;
+    align-items: center;
+}
+.am{
+    font-size: 60px;
+    font-weight: 600px;
+}
+.name{
+    font-size: 85px;
+    font-weight: 700px;
+}
+.title{
+    font-size: 25px;
+    color: rgb(134, 134, 134);
+}
+.cv{
+    height: 40px;
+    width: 200px;
+    background-color:rgb(255, 145, 11);
+    border-radius: 10px;
+    color: white;
+    border-color: rgb(255, 145, 11) ;
+    margin: 5px;
+}
+.con{
+    height: 40px;
+    width: 200px;
+    /* background-color:none; */
+    border-radius: 10px;
+    color:rgb(255, 145, 11);;
+    border-color: rgb(255, 145, 11) ;
+}
+.backpart{
+    background: rgb(247, 238, 230) ;
+    background-image:url(../images/header_bg.png),url(../images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+
+}
+main{
+    max-width: 1400px;
+    margin: 0px auto;
+    
+
+}
+.all{
+    margin-top: 130px;
+    background:  rgb(247, 238, 230)  ;
+    text-align: center;
+    padding: 130px 150px;
+    border-radius: 10px;
+
+}
+.sec-title{
+    font-size: 40px;
+}
+.dascription{
+    color: rgb(134, 134, 134);
+}
+.about{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+.info{
+    color: rgb(95, 93, 93) ;
+}
+.ditals{
+    font-size: 20px;
+    font-family: bold;
+
+}
+.s-name{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 200px;
+}
+.selaction{
+    display: flex;
+    gap: 24px;
+    /* padding: 10px; */
+}
+.skill{
+    background:rgb(255, 255, 255);
+    box-shadow: 0px 6px 50px rgb(124, 124, 120);
+    border-radius: 5px;
+    padding:24px;
+}
+.title{
+    font-style: oblique;
+    color: black;
+}
+.title-dittals{
+    padding: 30px;
+    color:rgb(119, 119, 119)
+}
+.s-title{
+    text-align: center;
+    margin-top: 200px;
+}
+.about-of-resume{
+    display: flex;
+    gap:100px
+}
+.s-title{
+    font-size: 40px;
+}
+.re-header{
+    font-size: 30px;
+}
+.re-details{
+    color:rgb(145, 143, 143);
+    font-weight: 600;
+    padding-right: 50px;
+    margin-bottom: 30px;
+}
+
+.infeniti{
+    text-align:center;
+    margin-top: 100px;
+    
+}
+.i-button{
+    color: aliceblue;
+    background:rgb(255, 145, 11) ;
+    border: 0px;
+    height: 40px;
+    width: 200px;
+    border-radius:10px ;
+}
+.connect{
+    display:flex;
+}
+.con-title{
+    font-size: 50px;
+}
+.con-detils{
+    padding-right: 100px;
+    font-size: 20px;
+    color:rgb(145, 143, 143) ;
+}
+.all-connection{
+    margin-top: 150px;
+    text-align: left;
+    gap: 100px;
+    background-color:rgb(247, 238, 230)   ;
+    padding: 120px 150px;
+}
+
+
+.con-from{
+    gap:10px;
+}
+
+
+.my_area{
+    width: 354px;
+    height: 240px;
+    border:none ;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+    font-size: bold;
+
+}
+.connect{
+    background-color: rgb(247, 238, 230);
+   
+}
+.my_name{
+    font-size: bold;
+    padding: 5px;
+    margin: 10px;
+    border:none ;
+    background-color: white;
+    display: block;
+    border-radius: 5px;
+    width: 100%;
+   
+}
+
+.my_email{
+    font-size: bold;
+    padding: 5px;
+    margin: 10px;
+    border:none ;
+    background-color: white;
+    display: block;
+    border-radius: 5px;
+    width: 100%;
+
+}
+.submit{
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 20px;
+    color:white  ;
+    background-color: rgb(255, 145, 11) ;
+    border: none ;
+    height: 40px;
+    width:150px;
+    
+
+}
